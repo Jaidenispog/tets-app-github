@@ -1,0 +1,47 @@
+body{
+
+    background-color: yellow;
+}
+
+h3{
+
+    font-size: 17px;
+    background-color:blueviolet;
+    color:yellow;
+}
+
+.heading{
+
+    font-size: 25px;
+    width: 100%;
+    color: blueviolet;
+    box-shadow: 4px 4px 4px black;
+    
+}
+
+canvas{
+ 
+    border: 5px solid blue;
+    border-radius:20px;
+}
+
+.play_button{
+
+    width: 130px;
+    font-size:30px;
+}
+
+.footer {
+
+
+    position: fixed;
+    color: rgb(35, 176, 219);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rebeccapurple;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 6px 4px 4px rgb(0, 0, 0);
+    
+}
